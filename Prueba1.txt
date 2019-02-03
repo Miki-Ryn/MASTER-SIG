@@ -1,2 +1,0 @@
-Probamos git commit y git add
-agrego cambio
